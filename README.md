@@ -1,4 +1,4 @@
-# AquaSense — Hackathon Pipeline
+# Datahacks Hackathon 
 
 Trains ML models on CalCOFI oceanographic data so our low-cost probe can
 predict dissolved oxygen and chlorophyll-a from the few sensors it actually
